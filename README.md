@@ -1,13 +1,4 @@
 ![image](https://github.com/RIDWANE-EL-FILALI/NetPractice/blob/master/images/Net.png)
-# Content :
-* [General knowledge:](https://github.com/RIDWANE-EL-FILALI/NetPractice#General-knowledge)
-  * [What is a host:](https://github.com/RIDWANE-EL-FILALI/NetPractice/tree/main#what-is-a-host)
-  * [What is a host:](https://github.com/RIDWANE-EL-FILALI/NetPractice/tree/main#what-is-a-host)
-  * [What is a host:](https://github.com/RIDWANE-EL-FILALI/NetPractice/tree/main#what-is-a-host)
-  * [What is a host:](https://github.com/RIDWANE-EL-FILALI/NetPractice/tree/main#what-is-a-host)
-* [General knowledge:](https://github.com/RIDWANE-EL-FILALI/NetPractice#General-knowledge)
-* [General knowledge:](https://github.com/RIDWANE-EL-FILALI/NetPractice#General-knowledge)
-
 # General Knowledge
   ## What is a host :
   refers to any device or computer that is connected to a network and has a unique identity within that network. These devices can include computers, servers, laptops, smartphones, tablets, or any other device that can connect to a network, cloud resources are also considered a host, The same goes for internet of Things devices.
